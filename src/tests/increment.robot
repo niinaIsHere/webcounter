@@ -15,3 +15,4 @@ When button pressed twice the counter is two
     Click Button  Paina
     Page Should Contain  nappia painettu 2 kertaa
 
+    
